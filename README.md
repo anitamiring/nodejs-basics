@@ -2,5 +2,5 @@
 
 ### How the web works 
 
-![Image of Yaktocat]
-(https://github.com/anitamiring/nodejs-basics/blob/master/how-the-web-work.png)
+![Image of Yaktocat](https://github.com/anitamiring/nodejs-basics/blob/master/how-the-web-work.png)
+
