@@ -9,7 +9,7 @@
 ### Create Node JS server - core modules (http)
 
 <p align="center">
-  <img width="600" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Core_modules.png">
+  <img width="400" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Core_modules.png">
 </p>
 
 ### Event loop Node.js 
@@ -21,7 +21,7 @@
 ### JavaScript is single thread
 
 <p align="center">
-  <img width="600" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/single-thread.png">
+  <img width="700" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/single-thread.png">
 </p>
 
 ### Basics of Node.js summary 
