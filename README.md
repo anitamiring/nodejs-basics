@@ -3,25 +3,25 @@
 ### How the web works 
 
 <p align="center">
-  <img width="600" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/how-the-web-works.png">
+  <img width="600" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Images/how-the-web-works.png">
 </p>
 
 ### Create Node JS server - core modules (http)
 
 <p align="center">
-  <img width="400" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Core_modules.png">
+  <img width="400" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Images/Core_modules.png">
 </p>
 
 ### Event loop Node.js 
 
 <p align="center">
-  <img width="600" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/event-loop.png">
+  <img width="600" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Images/event-loop.png">
 </p>
 
 ### JavaScript is single thread
 
 <p align="center">
-  <img width="700" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/single-thread.png">
+  <img width="700" height=auto src="https://github.com/anitamiring/nodejs-basics/blob/master/Images/single-thread.png">
 </p>
 
 ### Basics of Node.js summary 
